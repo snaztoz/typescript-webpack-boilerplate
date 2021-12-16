@@ -12,5 +12,8 @@
     "TypeScript"
   ],
   "author": "snaztoz",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
