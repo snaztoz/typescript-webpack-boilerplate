@@ -1,0 +1,16 @@
+{
+  "name": "ssnake",
+  "version": "1.0.0",
+  "description": "A Simple Snake Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Game",
+    "Snake",
+    "TypeScript"
+  ],
+  "author": "snaztoz",
+  "license": "BSD-3-Clause"
+}
