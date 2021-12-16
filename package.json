@@ -14,6 +14,7 @@
   "author": "snaztoz",
   "license": "BSD-3-Clause",
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
     "typescript": "^4.5.4"
   }
 }
