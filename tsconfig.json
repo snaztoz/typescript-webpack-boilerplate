@@ -6,6 +6,10 @@
         "removeComments": true,
         "preserveConstEnums": true,
         "sourceMap": true,
+        "baseUrl": ".",
+        "paths": {
+            "app/*": ["src/*"],
+        },
         "outDir": "dist/",
     },
 }
