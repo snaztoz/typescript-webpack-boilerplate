@@ -4,6 +4,7 @@
   "description": "A Simple Snake Game",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
